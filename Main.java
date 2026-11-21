@@ -12,5 +12,6 @@ public class Main {
 
         // Invoking the custom method
         person.talk("Hello, world!");
+        person.rollover();
     }
 }
