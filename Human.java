@@ -31,4 +31,8 @@ public class Human {
     public void talk(String message) {
         System.out.println(name + " says: " + message);
     }
+
+    public void think(String thought) {
+        System.out.println(name + " thinks of: " + thought);
+    }
 }
